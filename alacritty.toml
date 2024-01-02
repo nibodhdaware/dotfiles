@@ -1,0 +1,29 @@
+[font]
+size = 20.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Medium"
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "MediumItalic"
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "BoldItalic"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+dynamic_title = true
+startup_mode = "Windowed"
+opacity = 0.5
+
+[window.padding]
+x = 0
+y = 0
+
